@@ -1,1 +1,1 @@
-Spacetime modulated of an infinite, one dimensional crystal with a harmonic time configuration of its density.
+Spacetime modulated of an infinite, one dimensional crystal with a harmonic time configuration of its density. Usually, a crystal has periodicity in space. This one here shows us what the band diagram whould look like if a crystal had periodicity not only in space but in time too (time - crystal). 
