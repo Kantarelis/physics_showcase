@@ -1,0 +1,1 @@
+Band Structure of an one dimensional infinite crystall of a two alternate layers of homogeneous elastic media, the reflectivity of an analogous semi-infinite crystal and the displacement field of the infinite crystal.
